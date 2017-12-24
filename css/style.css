@@ -120,19 +120,19 @@ a:hover {
   clear: both;
   float: left;
   width: 1020px;
-	height: 400px;
-	background-color: #949295;
+  height: 400px;
+  background-color: #949295;
   margin-left: 130px;
   margin-top: 50px;
 }
 .p1 {
   width: 300px;
-	height: 28px;
-	font-family: Skia;
-	font-size: 20px;
-	font-weight: 600;
-	text-align: left;
-	color: #ffffff;
+  height: 28px;
+  font-family: Skia;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: left;
+  color: #ffffff;
   margin-left: 40px;
   margin-top: 40px;
 }
@@ -147,12 +147,12 @@ a:hover {
 }
 .box2 {
   width: 325px;
-	height: 173px;
-	font-family: Skia;
-	font-size: 18px;
-	font-weight: 600;
-	text-align: left;
-	color: #3a3838;
+  height: 173px;
+  font-family: Skia;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: left;
+  color: #3a3838;
   float: right;
   margin-right: 235px;
   margin-top: 20px;
@@ -176,9 +176,10 @@ footer {
   clear: both;
   text-align: center;
   font-family: Skia;
-	font-size: 16px;
-	font-weight: 600;
-	color: #1d1d1d;
+  font-size: 16px;
+  font-weight: 600;
+  color: #1d1d1d;
+  margin-right: 500px;
 }
 
 .wonder img,
