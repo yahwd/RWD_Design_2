@@ -1,6 +1,9 @@
 body {
   font-size: 10px;
 }
+a {
+  margin-top: 5px;	
+}
 .wonder , .dance, .funny {
   width: 90%;
   height: 170px;
