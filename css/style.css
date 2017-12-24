@@ -1,11 +1,6 @@
 body {
   background-color: #797678;
 }
-@media only screen and (max-width: 510px) {
-    body {
-        background-color: #797678;
-    }
-}
 .monster {
   clear: both;
   width: 1020px;
