@@ -24,10 +24,10 @@ ul {
 a {
   float: left;
   font-family: Skia;
-	font-size: 20px;
-	font-weight: 600;
-	text-align: left;
-	color: #FFFFFF;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: left;
+  color: #FFFFFF;
   text-decoration: none;
   margin-right: 90px;
   margin-top: 25px;
@@ -36,11 +36,11 @@ a:hover {
   color: #2E2E2E;
 }
 .search {
-	width: 270px;
-	height: 35px;
-	object-fit: contain;
-	opacity: 0.92;
-	mix-blend-mode: difference;
+  width: 270px;
+  height: 35px;
+  object-fit: contain;
+  opacity: 0.92;
+  mix-blend-mode: difference;
   margin-top: 21px;
   margin-left: 50px;
 }
@@ -179,7 +179,7 @@ footer {
   font-size: 16px;
   font-weight: 600;
   color: #1d1d1d;
-  margin-right: 500px;
+  margin-right: 600px;
 }
 
 .wonder img,
