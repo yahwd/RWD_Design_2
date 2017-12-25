@@ -2,7 +2,9 @@ body {
   font-size: 10px;
 }
 a {
-  margin-top: 5px;	
+  margin-top: 8px;
+  font-size: 12px;
+  margin-left: 5%;
 }
 .wonder , .dance, .funny {
   width: 90%;
@@ -13,27 +15,26 @@ a {
 .more2 {
   margin-top: 80%;
 }
-.clock {
-  opacity: 0;
-}
 .p1 {
   margin-left: 25%;
 }
 .weather {
   margin-left: 20%;
 }
+
 .box2 {
-  margin-right: 30%;
+  margin-right: 20%;
 }
 .date {
-  height: 0;
-  width: 0;
-  font-size: 0px;
+  font-size: 12px;
   margin: 0;
-	opacity: 0;
+	opacity: 100;
+  margin-left: 10%;
+  margin-top: 10px;
 }
 .clock {
   margin-top: 10px;
-  font-size: 10px;
+  margin-right: 18%;
+  font-size: 12px;
   opacity: 100;
 }
