@@ -446,14 +446,14 @@ footer {
   .weather {
     height: 125px;
     margin-left: 20%;
-    margin-top: 10px;
+    margin-top: 5px;
   }
   .box2 {
     width: 25%;
     height: 150px;
     font-size: 10px;
     margin-right: 20%;
-    margin-top: 10px;
+    margin-top: 5px;
   }
   .social li i {
     font-size: 20px;
