@@ -2,31 +2,37 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
   <link href="css/style.css" type="text/css" rel="stylesheet">
-  <link rel="stylesheet" media="(max-width: 1150px)" href="css/max-768px.css">
-  <link rel="stylesheet" media="(max-width: 510px)" href="css/max-320px.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-  <div class="nav">
-    <ul>
-        <li class="news"><a href="#">NEWS</a></li>
-        <li><a href="#">MOVIES</a></li>
-        <li class="c1"><a href="#">FUNNY</a></li>
-        <li class="c2"><a href="#">QUIZZES</a></li>
-        <li ><a href="#">OTHERS</a></li>
-        <li class="c3"><a href="#">SEARCH</a></li>
-    </ul>
-  </div>
 
- <div>
+  <header>
+    <div id="header-inner"></div>
+    <nav>
+      <a href="#" id="menu"><img src="image/nav.png" alt="nav"></i></a>
+      <ul>
+          <li class="news"><a href="#">NEWS</a></li>
+          <li><a href="#">MOVIES</a></li>
+          <li><a href="#">FUNNY</a></li>
+          <li><a href="#">QUIZZES</a></li>
+          <li><a href="#">OTHERS</a></li>
+      </ul>
+    </nav>
+    <a href="#" class="search"><i class="fa fa-search"></i></a>
+  </header>
+
+  <section class="banner">
+    <div class="banner-inner">
+      <img src="image/monster.png" alt="monster" class="monster">
+    </div>
+  </section>
+
   <div>
-  <div><img src="image/monster.png" alt="monster" class="monster">
-  </div>
-
-
-
+   <div>
   <div class="time">
     <div class="date">D D / M M / Y Y Y Y&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -66,7 +72,7 @@
   </div>
 
   <div class="more">
-    <a href="#" class="m1">MORE ></a>
+    <a href="#" class="m1"></br>&nbsp;&nbsp;&nbsp;MORE ></a>
   </div>
   </div>
 
@@ -77,14 +83,19 @@
       <p>TEMPERATURE : 23°<br /></p>
         <p>CHANCE OF RAIN : 0%<br /></p>
         <p>HUMIDITY : 10%</p></div>
-    <div class="more2">
-          <a href="#" class="m2">MORE ></a>
-    </div>
   </div>
-  <div class="space"></div>
 
 <footer>
-  <p class="foot">Copyright © 2017 All Rights Reserved.</p>
+  <ul class="social">
+    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+  </ul>
+</footer>
+
+<footer class="second">
+  <p>Copyright &copy; 2018 All Rights Reserved.</p>
 </footer>
 
 </body>
