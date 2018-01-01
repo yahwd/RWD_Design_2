@@ -395,12 +395,12 @@ footer {
   .date {
     margin-left: 10%;
   }
-  .clock {
-    margin-right: 10%;
+.clock {
+    display: hidden;
+    opacity:0;
   }
-  .date ,
-  .clock {
-    font-size: 65%;
+  .date  {
+  	font-size: 70%;
   }
   .wonder {
   	width: 80%;
