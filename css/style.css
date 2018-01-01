@@ -408,18 +408,12 @@ footer {
     margin-left: 10%;
     margin-top: 30px;
   }
-  .dance {
+  .dance , .funny {
     width: 80%;
     height: 170px;
     margin-left: 10%;
-    margin-top: 245px;
+    margin-top: 0px;
   }
-  .funny  {
-      width: 80%;
-      height: 170px;
-      margin-left: 10%;
-      margin-top: 10px;
-    }
   .boxtext a {
     text-decoration: none;
     font-size: 14px;
