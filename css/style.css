@@ -1,4 +1,4 @@
-@@import "";
+@import url('https://fonts.googleapis.com/css?family=Khula');
 
 *{
   margin: 0;
@@ -7,7 +7,7 @@
 }
 body {
   background-color: #797678;
-  font-family: Skia;
+  font-family: 'Khula', sans-serif;
   width: 100%;
   margin: 0;
 }
@@ -22,7 +22,7 @@ header {
 }
 nav {
   float: left;
-  padding: 20px 0 0 130px;
+  padding: 20px 0 0 150px;
 }
 #menu {
   display: hidden;
@@ -54,7 +54,7 @@ a:hover {
   font-size: 170%;
   float: right;
   margin-right: 20%;
-  margin-top: 30px;
+  margin-top: 20px;
   color: #FFFFFF;
 }
 .monster {
@@ -146,7 +146,7 @@ a:hover {
 	font-weight: 600;
 	text-align: left;
 	color: #ffffff;
-  margin-left: 40px;
+  margin-left: 70px;
   margin-top: 40px;
 }
 .weather {
@@ -154,7 +154,7 @@ a:hover {
   height: 260px;
   object-fit: contain;
   opacity: 0.9;
-  margin-left: 40px;
+  margin-left: 70px;
   margin-top: 10px;
   float: left;
 }
@@ -166,8 +166,8 @@ a:hover {
 	text-align: left;
 	color: #3a3838;
   float: right;
-  margin-right: 235px;
-  margin-top: 20px;
+  margin-right: 20%;
+  margin-top: 50px;
 }
 
 footer {
@@ -348,7 +348,7 @@ footer {
   	height: 150px;
   	font-size: 16px;
     margin-right: 235px;
-    margin-top: 10px;
+    margin-top: 20px;
   }
   .social li i {
     font-size: 32px;
@@ -408,12 +408,18 @@ footer {
     margin-left: 10%;
     margin-top: 30px;
   }
-  .dance , .funny  {
+  .dance {
     width: 80%;
     height: 170px;
     margin-left: 10%;
-    padding-top: 10px;
+    margin-top: 210px;
   }
+  .funny  {
+      width: 80%;
+      height: 170px;
+      margin-left: 10%;
+      margin-top: 10px;
+    }
   .boxtext a {
     text-decoration: none;
     font-size: 14px;
@@ -421,7 +427,7 @@ footer {
   }
   .wonder .boxtext {
     margin-left: 50px;
-    margin-top: 20px;
+    margin-top: 25px;
   }
   .dance .boxtext {
     margin-left: 50px;
@@ -449,11 +455,11 @@ footer {
     margin-top: 5px;
   }
   .box2 {
-    width: 25%;
+    width: 35%;
     height: 150px;
     font-size: 10px;
-    margin-right: 20%;
-    margin-top: 5px;
+    margin-right: 15%;
+    margin-top: 30px;
   }
   .social li i {
     font-size: 20px;
