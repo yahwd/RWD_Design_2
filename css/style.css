@@ -115,7 +115,7 @@ a:hover {
 .more {
   background-color: #C2C2C2;
   width: 100px;
-  height: 30px;
+	height: 30px;
   margin-left: 81.5%;
   margin-top: 50px;
   border-radius: 50px;
@@ -266,7 +266,7 @@ footer {
     font-size: 150%;
     float: right;
     margin-right: 7%;
-    margin-top: 20px;
+    margin-top: 15px;
     color: #FFFFFF;
   }
   .monster {
@@ -335,7 +335,7 @@ footer {
   }
   .p1 {
   	font-size: 16px;
-    margin-left: 9%;
+    margin-left: 11%;
     margin-top: 20px;
   }
   .weather {
@@ -412,7 +412,7 @@ footer {
     width: 80%;
     height: 170px;
     margin-left: 10%;
-    margin-top: 240px;
+    margin-top: 245px;
   }
   .funny  {
       width: 80%;
